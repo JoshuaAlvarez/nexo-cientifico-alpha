@@ -1,3 +1,7 @@
+Primera etapa del proyecto modular "Nexo Científico".
+
+Es necesario crear un archivo .env.local con las llaves de acceso de las APIs utilizadas (GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, JWT_SECRET, MONGODB_URI).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
